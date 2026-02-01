@@ -1,0 +1,8 @@
+{
+  "name": "Vidiomark AI Distribution Hub",
+  "description": "An AI-powered video marketing and distribution dashboard that scales content across global platforms with intelligent analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
